@@ -24,4 +24,4 @@ A creative project to give voice to your words.
 
 ## Project Preview:
 
-(https://ali-tahir4024.github.io/Text-To-Speach-Javascript/)
+[Text To Speech Javascript](https://alitahir4024.github.io/Text-To-Speach-Javascript/)
