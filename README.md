@@ -25,3 +25,11 @@ A creative project to give voice to your words.
 ## Project Preview:
 
 [Text To Speech Javascript](https://alitahir4024.github.io/Text-To-Speach-Javascript/)
+
+setup in ubuntu:
+git clone https://github.com/alitahir4024/Text-To-Speach-Javascript.git
+cd Text-To-Speach-Javascript
+sudo apt update
+sudo apt install nodejs npm -y
+sudo npm install -g http-server
+http-server
